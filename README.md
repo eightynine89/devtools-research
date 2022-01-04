@@ -5,3 +5,4 @@
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [How Douglas Engelbart Invented the Future](https://www.smithsonianmag.com/innovation/douglas-engelbart-invented-future-180967498/)
 - [Building complex reasoning skills online through open-ended activities](https://early.khanacademy.org/open-ended)
+- [Deep Dive Into Tree-Shaking](https://javascript.plainenglish.io/deep-dive-into-tree-shaking-ba2e648b8dcb)
